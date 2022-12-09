@@ -1,4 +1,6 @@
 #! bash/bin
 run() {
-    model.ipynb
+    python3 main.py
 }
+
+run
