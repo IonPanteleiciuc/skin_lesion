@@ -1,4 +1,4 @@
-#! bash/bin
+#! /bin/bash
 run() {
     python3 main.py
 }
